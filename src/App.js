@@ -10,7 +10,12 @@ function App() {
         <a href='#' className='nav-item'>Homepage </a>
         <a href='#' className='nav-item'>About Me </a>
       </nav>
+
+      <Homepage />
+      <AboutMe />
+
     </div>
+
   );
 }
 
